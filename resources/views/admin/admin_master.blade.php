@@ -59,7 +59,7 @@
           <div class="media-list media-list-hover mt-20">
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-success" href="#">
-				<img src="../images/avatar/1.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/1.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -72,7 +72,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-danger" href="#">
-				<img src="../images/avatar/2.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/2.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -85,7 +85,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-warning" href="#">
-				<img src="../images/avatar/3.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/3.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -98,7 +98,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-primary" href="#">
-				<img src="../images/avatar/4.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/4.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -111,7 +111,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-success" href="#">
-				<img src="../images/avatar/1.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/1.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -124,7 +124,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-danger" href="#">
-				<img src="../images/avatar/2.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/2.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -137,7 +137,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-warning" href="#">
-				<img src="../images/avatar/3.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/3.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
@@ -150,7 +150,7 @@
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-primary" href="#">
-				<img src="../images/avatar/4.jpg" alt="...">
+				<img src="{{asset('backend/images/avatar/4.jpg')}}" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="font-size-16">
