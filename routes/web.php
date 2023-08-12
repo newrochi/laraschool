@@ -29,3 +29,6 @@ Route::middleware([
 });
 
 Route::get('admin/logout',[AdminController::class,'logout'])->name('admin.logout');
+Route::get('updatepass',function(){
+    return view('auth.forgot-password');
+})->name('passupdate');
